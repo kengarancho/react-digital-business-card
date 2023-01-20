@@ -1,0 +1,67 @@
+.header {
+  display: block;
+  margin: 0 auto;
+  color: #fff;
+  width: 350px;
+  background-color: #1A1B21;
+}
+
+.ken-image {
+    margin: 0;
+    width: 350px;
+  }
+
+h2 {
+  margin-bottom: 0.25em;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+h4 {
+  margin: 0;
+  font-size: 18px;
+  color: #F3BF99;
+}
+
+p {
+  font-size: 15px;
+}
+
+
+
+.email-btn {
+  margin: 0.5em;
+  font-weight: 800;
+  font-size: 17px;
+  line-height: 20px;
+  font-family: inherit;
+  background-image: url("images/envelope-solid.svg");
+  background-size: 15%;
+  background-position: 20% 50%;
+  background-repeat: no-repeat;
+  width: 150px; /* adjust as per the image size */
+  height: 70px;
+  padding-left: 1.5em;
+  border-radius: 1em;
+  cursor: pointer;
+}
+
+.linkedin-btn {
+  margin: 1em;
+  font-weight: 800;
+  font-size: 17px;
+  color:#fff;
+  background: #5093E2;
+  line-height: 20px;
+  font-family: inherit;
+  background-image: url("images/linkedin.svg");
+  background-size: 15%;
+  background-position: 20% 50%;
+  background-repeat: no-repeat;
+  width: 150px; /* adjust as per the image size */
+  height: 70px;
+  padding-left: 2em;
+  border-radius: 1em;
+  cursor: pointer;
+
+}

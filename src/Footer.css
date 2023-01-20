@@ -1,0 +1,10 @@
+.socials {
+    width: 320px;
+    background-color: #161619;
+    margin: 0 auto;
+    padding: 1em 1em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
